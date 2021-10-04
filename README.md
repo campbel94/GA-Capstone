@@ -4,7 +4,7 @@
 
 The rise of plant-based meat alternatives in recent years is one of, if not the fastest growing trends in the food industry. As consumer demand for vegan alternatives increases, plant-based food companies, as well as the stores and restaurants that sell their products, have scaled up their supply accordingly. 
 
-From April to May of 2020 alone (the early stages of the COVID-19 pandemic) [plant-based meat substitutes saw a 35 percent increase in restaurant sales and a 53 percent increase in uncooked grocery sales.](https://www.nytimes.com/2020/05/22/dining/plant-based-meats-coronavirus.html?searchResultPosition=2) The rise in plant-based diets is not only great news for the health of our planet and animal welfare, it provides exciting new fast food options for consumers who begrudgingly abandoned Big Macs and McChicken sandwiches in the name of sustainability. 
+From April to May of 2020 alone (the early stages of the COVID-19 pandemic) [plant-based meat substitutes saw a 35 percent increase in restaurant sales and a 53 percent increase in uncooked grocery sales.](https://www.nytimes.com/2020/05/22/dining/plant-based-meats-coronavirus.html?searchResultPosition=2) The growing popularity of plant-based alternatives is not only great news for the health of our planet and animal welfare, it provides exciting new fast food options for consumers who begrudgingly abandoned Big Macs and McChicken sandwiches in the name of sustainability. 
 
 One restaurant chain providing exactly that, and a personal favorite of mine, is [Project Pollo](https://www.projectpollo.com/). Founded as a lone food truck in downtown San Antonio, Project Pollo locations spread across Texas by serving classically comforting fast food that is 100% vegan.
 
@@ -131,4 +131,6 @@ Using a for loop, bar charts were created to display the neighborhoods where eac
 - Mapped the cluster labels back to the original dataframe that contains retaurant names.
 - This will allow us to dig in even further.
 
-## Conclusion
+## Key Learnings
+- Objectivity and consistency of data hasa huge impact on learnings
+- Visualizations and EDA provided easier to understand learnings than the Kmeans modeling did
